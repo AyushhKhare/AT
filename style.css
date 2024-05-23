@@ -1,0 +1,13 @@
+#map {
+            height: 400px;
+            width: 100%;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+        }
+        #location {
+            margin: 20px 0;
+        }
